@@ -1,7 +1,7 @@
 ![MasterHead](https://visme.co/blog/wp-content/uploads/2020/03/animation-software-header-wide.gif)
 <h1 align="center">Hi 👋, I'm Siddharth Verma</h1>
 <h3 align="center">Yet a passionate apprentice from India</h3>
-<img  align="right" alt="Coding" width="200" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
+<img  align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sid-3904&label=Profile%20views&color=0e75b6&style=flat" alt="sid-3904" /> </p>
 
