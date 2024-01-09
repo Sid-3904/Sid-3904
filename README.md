@@ -3,13 +3,11 @@
 <h3 align="center">Repeat( ) { Eat( ); Code( ); SLeep( ); }</h3>
 <img  align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
-- 🔭 I’m currently working on **BlockChain Based Acad Management System**
+😎 I’m currently what we call... **A Dangling Pointer**
 
-- 🌱 I’m currently learning **BlockChain Development**
+🚀 Diving into **AI/ML, BlockChain Dev, Web Dev**
 
-- 📫 How to reach me **siddharthverma3904@gmail.com**
-
-- ⚡ Fun fact **I believe in Hogwarts and I'm a PotterHead**
+📫 How to reach me **siddharthverma3904@gmail.com**
 
 <p align="left">
 </p>
