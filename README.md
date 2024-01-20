@@ -7,7 +7,9 @@
 
 🚀 Diving into **AI/ML, BlockChain Dev, Web Dev**
 
-📫 How to reach me **siddharthverma3904@gmail.com**
+📫 How to reach me <a href="mailto:siddharthverma3904@gmail.com">**Mail ID**</a>
+
+👁️ Know more about me in my <a href="https://Sid-3904.github.io">**Portfolio**</a>
 
 <p align="left">
 </p>
