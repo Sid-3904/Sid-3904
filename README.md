@@ -1,6 +1,6 @@
 ![MasterHead](https://visme.co/blog/wp-content/uploads/2020/03/animation-software-header-wide.gif)
 <h1 align="center">Hi 👋, I'm Siddharth Verma</h1>
-<h3 align="center">Repeat( ) { Eat( ); Code( ); SLeep( ); }</h3>
+<h3 align="center">"The true sign of Intelligence is not Knowledge but Imagination"<br>-Albert Einstein</h3>
 <img  align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 😎 I’m currently what we call... **A Dangling Pointer**
